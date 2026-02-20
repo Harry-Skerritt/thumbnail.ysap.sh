@@ -146,7 +146,5 @@ canvas {
 }
 
 #font-input {
-	/* This forces the dropdown itself to use the font,
-       making the browser load it before you even click generate */
 	font-family: inherit;
 }

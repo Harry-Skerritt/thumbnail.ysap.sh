@@ -11,7 +11,7 @@
  * - Harry Skerritt <contact@harryskerritt.co.uk>
  */
 
-let lastVideoData = null;
+let lastVideoId = null;
 let font = 'Arial';
 
 // Google font picker
